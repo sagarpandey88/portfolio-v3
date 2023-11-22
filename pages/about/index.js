@@ -56,34 +56,21 @@ export const aboutData = [
         icons: [<SiMicrosoftazure key="Azure" title="Azure" />, <SiAmazonaws key="aws" title="AWS" />, <SiMicrosoftsharepoint key="sp" title="Microsoft SharePoint" />, <SiPowerapps key="papps" title="PowerApps" />, <SiPowerautomate key="pautomate" title="Power Automate" />],
       }
     ],
-  },
+  }, 
   {
-    title: 'awards',
+    title: 'Expertise',
     info: [
       {
-        title: 'Webby Awards - Honoree',
-        stage: '2011 - 2012',
+        title: 'Designing global scale application',
+        stage: '',
       },
       {
-        title: 'Adobe Design Achievement Awards - Finalist',
-        stage: '2009 - 2010',
-      },
-    ],
-  },
-  {
-    title: 'experience',
-    info: [
-      {
-        title: 'UX/UI Designer - XYZ Company',
-        stage: '2012 - 2023',
+        title: 'Designing CI/CD pipeline for automation',
+        stage: '',
       },
       {
-        title: 'Web Developer - ABC Agency',
-        stage: '2010 - 2012',
-      },
-      {
-        title: 'Intern - DEF Corporation',
-        stage: '2008 - 2010',
+        title: 'Designing Testing Strategy',
+        stage: '',
       },
     ],
   },
@@ -91,16 +78,21 @@ export const aboutData = [
     title: 'credentials',
     info: [
       {
-        title: 'Web Development - ABC University, LA, CA',
-        stage: '2011',
+        title: 'Azure Fundamentals',
+        stage: 'AZ900',
       },
       {
-        title: 'Computer Science Diploma - AV Technical Institute',
-        stage: '2009',
+        title: 'M365 Developer Associate',
+        stage: 'MS600',
       },
       {
-        title: 'Certified Graphic Designer - ABC Institute, Los Angeles, CA',
-        stage: '2006',
+        title: 'MCSA - Web Application',
+        stage: '70-480',
+      },
+      ,
+      {
+        title: 'MCSD - App Builder',
+        stage: '70-487',
       },
     ],
   },
