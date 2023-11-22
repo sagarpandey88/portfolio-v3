@@ -1,3 +1,4 @@
+const basePath = "";
 // work slider data
 export const workSlider = {
   slides: [
@@ -5,19 +6,19 @@ export const workSlider = {
       images: [
         {
           title: 'title',
-          path: '/thumb1.jpg',
+          path: basePath + '/thumb1.png',
         },
         {
           title: 'title',
-          path: '/thumb2.jpg',
+          path: basePath +  '/thumb2.png',
         },
         {
           title: 'title',
-          path: '/thumb3.jpg',
+          path: basePath +  '/thumb3.png',
         },
         {
           title: 'title',
-          path: '/thumb4.jpg',
+          path: basePath +  '/thumb4.png',
         },
       ],
     },
